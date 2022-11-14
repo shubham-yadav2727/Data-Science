@@ -1,2 +1,2 @@
 # Machine-Learning
-projects of data science machine learning.
+projects realated data science machine learning.
